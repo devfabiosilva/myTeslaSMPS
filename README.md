@@ -23,6 +23,7 @@ This WVR-SMPS (Wide Voltage Range Switching Mode Power Supply) or simply Tesla S
 ## Specifications
 
 ### Input Voltage:
+
 AC 100 ~ 820 Volts (45 - 450 Hz)
 DC 142 ~ 1,160 Volts
 
@@ -38,7 +39,9 @@ DC: 34.3 W
 ### Eficiency
 
 0.78 @ 180 VDC / 127 VAC
+
 0.70 @ 500 VDC / 350 VAC
+
 0.65 @ 1,160 VDC / 820 VAC
 
 ### THD
