@@ -35,6 +35,7 @@ DC 25.8 Volts (Insulated)
 ### Input Power
 
 AC: 46 Va
+
 DC: 34.3 W
 
 ### Eficiency
