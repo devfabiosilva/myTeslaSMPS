@@ -25,6 +25,7 @@ This WVR-SMPS (Wide Voltage Range Switching Mode Power Supply) or simply Tesla S
 ### Input Voltage:
 
 AC 100 ~ 820 Volts (45 - 450 Hz)
+
 DC 142 ~ 1,160 Volts
 
 ### Output Voltage:
